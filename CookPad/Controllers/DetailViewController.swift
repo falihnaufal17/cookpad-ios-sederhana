@@ -23,5 +23,8 @@ class DetailViewController: UIViewController {
             cookImage.image = data.image
             cookDesc.text = data.description
         }
+        
+        cookImage.layer.cornerRadius = 32
+        cookImage.layer.masksToBounds = true
     }
 }
