@@ -1,0 +1,24 @@
+{
+  "images" : [
+    {
+      "filename" : "logo_cookpad_large-37f517e7dc2f0fee570cdfc67422498163d299de568c466fe80544b60cef564d.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "template-rendering-intent" : "original"
+  }
+}
